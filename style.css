@@ -1,0 +1,33 @@
+.proyects{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.text-shadow-1{
+    text-shadow: -1px 1px 6px rgba(0, 0, 0, 1);
+}
+
+.text-shadow-2{
+    text-shadow: 0px 0px 4px rgba(0, 0, 0, 1);
+}
+
+#proyect1{
+    background-image: url('Assets/FaceAttend.png');
+}
+
+#proyect2{
+    background-image: url('Assets/InkTouch.png');
+}
+
+#proyect3{
+    background-image: url('Assets/MSOS.png');
+}
+
+.text-purple{
+    color: rgba(199, 120, 221, 1);
+}
+
+.contSkills{
+    height: 38em;
+}
