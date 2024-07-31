@@ -1,5 +1,41 @@
+.presentacion{
+    height: 90vh;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+
+    background-image: url("Assets/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 .proyects{
     background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.developer{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-image: url("Assets/ux-developer.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.designer{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-image: url("Assets/ux-design.jpeg");
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
