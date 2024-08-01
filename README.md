@@ -10,15 +10,15 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye
 
 ## Secciones de mi sitio
 
-![Presentación](assets/readme/1.png)
+![Presentación](Assets/readme/1.png)
 
-![Habilidades](assets/readme/2.png)
+![Habilidades](Assets/readme/2.png)
 
-![Proyectos](assets/readme/3.png)
+![Proyectos](Assets/readme/3.png)
 
-![Testimonios](assets/readme/4.png)
+![Testimonios](Assets/readme/4.png)
 
-![Contacto](assets/readme/5.png)
+![Contacto](Assets/readme/5.png)
 
 ## Tecnologías
 
