@@ -20,7 +20,7 @@
     height: 80vh;
     display: flex;
     justify-content: center;
-    align-items: center;
+
 
     background-image: url("Assets/ux-developer.jpeg");
     background-size: cover;
@@ -32,7 +32,7 @@
     height: 80vh;
     display: flex;
     justify-content: center;
-    align-items: center;
+
 
     background-image: url("Assets/ux-design.jpeg");
     background-size: cover;
